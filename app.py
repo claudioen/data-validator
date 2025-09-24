@@ -58,7 +58,7 @@ st.sidebar.markdown("---")
 st.sidebar.caption("Tip: large files? Prefer Parquet for speed.")
 
 # ---- Main area -------------------------------------------------------------
-st.title("Data Validator Light")
+st.title("Data Validator")
 st.caption("Lightweight data quality checks for CSV/JSON/Parquet/Excel using YAML rules.")
 
 # Data preview container
