@@ -1,5 +1,8 @@
 # Data Validator
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://data-validator-vwlkf7tnfla6ru633gtaxn.streamlit.app)
+
+
 *A small, practical tool to check the quality of tabular data.*  
 Works with **CSV**, **JSON** (incl. JSONL), **Parquet**, and **Excel**.  
 Rules live in a simple **YAML** file. Run it from the **CLI** or a **Streamlit** UI and get clean **Markdown** and **JSON** reports.
