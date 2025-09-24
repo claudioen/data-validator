@@ -7,7 +7,7 @@ from validator.loader import load_data
 from validator.core import validate_data
 from validator.report import render_markdown, render_json
 
-st.set_page_config(page_title="Data Validator Light", page_icon="✅", layout="wide")
+st.set_page_config(page_title="Data Validator", page_icon="🤖", layout="wide")
 
 # ---- Sidebar ---------------------------------------------------------------
 st.sidebar.title("⚙️ Configuration")
