@@ -1,0 +1,5 @@
+[
+  {"user_id": 10, "age": 33, "email": "amy@co.com", "signup_date": "2022-03-10"},
+  {"user_id": 11, "age": null, "email": "bad@", "signup_date": "2021-07-01"},
+  {"user_id": 12, "age": 55, "email": "rick@mail.org", "signup_date": "2020-01-02"}
+]

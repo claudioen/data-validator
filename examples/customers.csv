@@ -1,0 +1,7 @@
+user_id,age,email,signup_date
+1,34,jane.doe@example.com,2023-04-12
+2,19,john@example.org,2024-11-02
+3,150,badmail.com,2019-01-01
+4,,space@ example.com,2021-06-30
+4,28,dup@example.com,2022-12-12
+5,42,ok@mail.net,2026-01-01
