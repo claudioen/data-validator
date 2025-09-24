@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+venv/
+.env/
+.ipynb_checkpoints/
+.streamlit/
+*.egg-info/
+.eggs/
+.DS_Store
+Thumbs.db
+htmlcov/
+*.parquet
+!examples/*.parquet
+.vscode/
